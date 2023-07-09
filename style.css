@@ -122,3 +122,50 @@ header p{
     margin-bottom: 30px;
     margin-left: 60px;
 }
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding: 100px 0px;
+}
+.right-side h1{
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+.right-side p{
+    color: rgb(214, 211, 211);
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+.right-side li{
+    list-style: none;
+    color: rgb(214, 211, 211);
+    font-size: 17px;
+    margin-bottom: 18px;
+}
+.right-side img{
+    margin-right: 10px;
+}
+.left-side h1{
+    font-size: 33px;
+    margin-bottom: 28px;
+
+}
+.left-side input{
+    background: transparent;
+    border: 1px solid white;
+    padding: 18px;
+    color: #F3F3F3;
+    border-radius: 5px;
+    margin-bottom: 28px;
+    font-size: 20px;
+}
+.left-side button{
+    font-size: 20px;
+    padding: 15px;
+    color: white;
+    background-color: #005FAC;
+    border-radius: 5px;
+    border: none;
+}
