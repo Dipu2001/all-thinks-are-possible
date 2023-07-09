@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-image: url("images/banner/banner2.png");
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+}
+
+header h1{
+    font-size: 70px;
+    margin-bottom: 30px;
+}
+header button{
+
+    font-size: 18px;
+    font-weight: bold;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(230, 94, 4);
+}
+.header-content{
+    position: absolute;
+    left: 58%;
+    top: 20%;
+    text-align: right;
+    
+}
+header p{
+    font-size: 18px;
+    color: rgb(80, 79, 79);
+    margin-bottom: 30px;
+    
+}
