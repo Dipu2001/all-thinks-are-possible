@@ -36,3 +36,33 @@ header p{
     margin-bottom: 30px;
     
 }
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    padding: 100px 0px;
+}
+.about img{
+    height: 700px;
+    width: 550px;
+}
+.failures{
+    text-align: left;
+    margin-top: 80px;
+}
+.failures h1{
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.failures p{
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: rgb(87, 85, 85);
+}
+.failures li{
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: rgb(87, 85, 85);
+}
