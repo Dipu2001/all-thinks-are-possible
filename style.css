@@ -99,7 +99,7 @@ header p{
     margin-bottom: 100px;
 }
 .keep-positive{
-    background-image: url("/images/gradient1.png"), url("/images/watch.png");
+    background-image: url("images/gradient1.png"), url("images/watch.png");
     background-repeat: no-repeat;
     width: 1140px;
     height: 300px;
